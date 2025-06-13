@@ -4,17 +4,17 @@ This repository contains Python code, Google Colab notebooks and related files f
 
 **Note:** This is a student research project and not a production-ready software.
 
-## 📁 Contents
+## Contents
 - Code scripts and Google Colab notebooks
 - Model training and evaluation scripts
 - References to external public datasets (used with permission)
 
-## 📜 License
+## License
 
 The code in this repository is licensed under the [MIT License](LICENSE).  
 You are free to use, modify, and share this code for educational and non-commercial purposes.
 
-## 📊 Dataset Usage
+## Dataset Usage
 
 This project uses public datasets from Kaggle and other sources:
 - [MCFD Dataset](https://www.kaggle.com/datasets/soumicksarker/multiple-cameras-fall-dataset)
@@ -22,6 +22,6 @@ This project uses public datasets from Kaggle and other sources:
 
 Please refer to the respective dataset licenses and terms of use on their Kaggle pages. The datasets are not redistributed in this repository, only referenced for reproducibility.
 
-## 📌 Disclaimer
+## Disclaimer
 
 This is an academic project developed as part of a university course assignment. The code is shared for learning purposes and comes with no warranty.
