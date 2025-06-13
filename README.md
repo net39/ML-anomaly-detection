@@ -41,12 +41,12 @@ Purpose: Data preprocessing, exploratory data analysis (EDA), model training, ev
 Development Tools:
 - Google Colab: for coding, training, and experimentation in Python notebooks.
 - GitHub Repo: ML-anomaly-detection
--- MIT License applied
--- README.md created for project overview and documentation
+- --MIT License applied
+- --README.md created for project overview and documentation
 - Google Cloud Storage (GCS):
---Project: p2-anomaly
---Bucket: p2-anomaly
--Raw data (videos + images from Multiple Cameras Fall and HAR Datasets)
+- --Project: p2-anomaly
+- --Bucket: p2-anomaly
+- Raw data (videos + images from Multiple Cameras Fall and HAR Datasets)
 
 ## Steps done
 1. Complete data upload into GCS.
