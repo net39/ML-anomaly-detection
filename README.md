@@ -1,5 +1,5 @@
 # ML Abnormalities Detection in Daily Movements via Home Surveillance Cameras (A Student Project)
-NAAR-S2027629-WQD7023 P2
+
 This repository contains Python code, Google Colab notebooks and related files for my academic project on anomaly detection using ML models techniques.
 
 **Note:** This is a student research project and not a production-ready software.
