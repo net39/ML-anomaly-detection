@@ -7,7 +7,7 @@ This repository contains Python code, Google Colab notebooks and related files f
 ## Contents
 - Code scripts and Google Colab notebooks
 - Model training and evaluation scripts
-- References to external public datasets (used with permission)
+- References to external publicly available datasets in Kaggle.
 
 ## Project Objective
 
