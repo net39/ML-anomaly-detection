@@ -2,7 +2,7 @@
 
 This repository contains Python code, Google Colab notebooks and related files for my academic project on anomaly detection using ML models techniques.
 
-**Note:** This is a student research project and not a production-ready software.
+**Note:** This is a student project and not a production-ready software.
 
 ## Contents
 - Code scripts and Google Colab notebooks
