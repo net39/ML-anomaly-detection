@@ -32,9 +32,8 @@ Secondary Dataset: Human Action Recognition (HAR) Dataset (labelled images in .j
 Please refer to the respective dataset licenses and terms of use on their Kaggle pages. The datasets are not redistributed in this repository, only referenced for reproducibility.
 
 ## Notebook
-Filename: S2027629_P2.ipynb in Google Colab
 
-Purpose: Data preprocessing, exploratory data analysis (EDA), model training, evaluation, and anomaly detection logic.
+Various notebooks were created to fulfill this project, however shared in this space are the most relevant.
 
 ## Project Environment Setup Overview
 
@@ -49,14 +48,15 @@ Development Tools:
 - Raw data (videos + images from Multiple Cameras Fall and HAR Datasets)
 
 ## Steps done
+
 1. Complete data upload into GCS.
 2. Mount/connect GCS to Google Colab.
 3. Perform dataset validation (file counts, formats, sample displays).
 4. Set up directory structures in Colab environment.
-5. Begin data preprocessing:
-5a. Frame extraction from video clips
-5b. Image resizing and normalisation
-6c. Label mapping preparation
+5. Begin data preprocessing - Frame extraction from video clips
+6. Secondary dataset classification using SVM Modelling
+7. Primary dataset action prediction, human prediction and anomaly detection.
+8. Models and Output evaluation
 
 ## Disclaimer
 
